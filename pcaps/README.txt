@@ -381,7 +381,7 @@ IP                          Domain
 
 19. Provide a summary of the all protocols used. What was the most popular protocol used? Describe your methodology.
 	tshark -r set2.pcap -q -z io,phs
-	
+
 Protocol Hierarchy Statistics
 Filter: 
 eth                                      frames:74566 bytes:65077253
@@ -455,4 +455,4 @@ eth                                      frames:74566 bytes:65077253
   arp                                    frames:87 bytes:5220
 
 20. A fun question: what other interesting things did you find in this PCAP set (e.g., files)?
-	There are some interesting jpeg files.
+	There are some interesting jpeg files. There are also a lot of get calls to images, some shopping, views about elon musk, wordpress calendar stuff.
