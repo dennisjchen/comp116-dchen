@@ -1,4 +1,6 @@
-	As mentioned in the paper, Microsoft has been developing a platform called TouchDevelop that allows users to create applications with relative ease. As this is introduced, the scripts are fairly easy to get a hang of and this makes it so that incorporating security into these scripts also fairly easy. Below are some examples of how to create simple games with TouchDevelop scripts.
+As mentioned in the paper, Microsoft has been developing a platform called TouchDevelop that allows users to create applications with relative ease. As this is introduced, the scripts are fairly easy to get a hang of and this makes it so that incorporating security into these scripts also fairly easy. Below are some examples of how to create simple games with TouchDevelop scripts.
+
+Note: The TouchDevelopScripts.txt has correctly formatted scripts and no images
 
 //These are scripts for TouchDevelop and can be run on 
 //https://www.touchdevelop.com
